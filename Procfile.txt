@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-web: gunicorn wsgi:app
-
-=======
-web: gunicorn app:app
-
->>>>>>> 6c52e2f37f3afcd42bb4fecc2d0f7500809fea98
